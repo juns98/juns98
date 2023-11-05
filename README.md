@@ -1,10 +1,8 @@
 ### Hi, I'm Joonsun 👋
 
-<div align=left>
-  Smart Contract Developer <br />
-  1. Solve Problems Efficiently <br />
-  2. Do not be scared to learn new things
-</div>
+### Smart Contract Developer 
+### 1. Solve Problems Efficiently 
+### 2. Do not be scared to learn new things
 
 
 
