@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Joonsun 👋
+
+<div align=left>
+  Smart Contract Developer <br />
+  1. Solve Problems Efficiently <br />
+  2. Do not be scared to learn new things
+</div>
+
+
 
 <div align=left><h1>📚 STACKS</h1></div>
 
