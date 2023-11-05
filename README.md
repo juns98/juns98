@@ -2,8 +2,6 @@
 
 <div align=left><h1>📚 STACKS</h1></div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juns98)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align=left> 
   <br>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
