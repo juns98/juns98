@@ -2,7 +2,7 @@
 
 ### Smart Contract Developer 
 ##### 1. Solve Problems Efficiently 
-##### 2. Do not be scared to learn new things
+##### 2. Always excited to learn new things
 
 
 
