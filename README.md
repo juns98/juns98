@@ -1,9 +1,8 @@
 ### Hi, I'm Joonsun 👋
 
-### Smart Contract Developer 
+### BlockChain Developer 
 ##### 1. Solve Problems Efficiently 
 ##### 2. Always excited to learn new things
-
 
 
 <div align=left><h1>📚 STACKS</h1></div>
